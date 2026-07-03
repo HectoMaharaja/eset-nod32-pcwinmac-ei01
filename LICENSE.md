@@ -1,4 +1,4 @@
-# 
+# Elite ESET NOD32 fluxo de trabalho para Mac OS | Gratuito ESET NOD32 fluxo de trabalho para PC Windows. Com suporte a linha de comando e limitação de taxa — otimizado para máximo desempenho em cada plataforma.
 
 
 
